@@ -17,21 +17,15 @@ for line in csv.reader(open("mention_nltk_sentence.csv")):
     d["article_id"]=line[0]
     d["mention_id"]=line[1]
     d["original_full_quote & software"]=line[2]
-    #generate v3
     d["match"]=""
-    #generate v3
-    d["notes"]=""
-    #generate v2
-    #d["match"]=""
     d["software"]=line[3]
     tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')#split text into sentence
     segments= tokenizer.tokenize(str(line[2]))#split text into sentence
-    #genetate v2
-    '''
+    
     if len(segments) !=1:
         d["change"]="T"
     else: d["change"]="F" 
-    '''
+    
     #nltk_output_fragment
     b={}
     for segment in segments:

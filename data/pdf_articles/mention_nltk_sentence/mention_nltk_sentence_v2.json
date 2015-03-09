@@ -161,26 +161,13 @@
         "nltk_output_fragments": {
             "0": {
                 "nltk_output_fragment": "Data were analysed with DENZO [41] and the resolution limit was determined with TRIM_DENZO (D.I.S., unpublished program).", 
-                "software": "TRIM_DENZO"
+                "software": "TRIM_DENZO,DENZO"
             }
         }, 
         "original_full_quote & software": "Data were analysed with DENZO [41] and the resolution limit was determined with TRIM_DENZO (D.I.S., unpublished program).", 
-        "software": "TRIM_DENZO"
+        "software": "TRIM_DENZO,DENZO"
     }, 
-    "13": {
-        "article_id": "bioj:a2004-46-NATURE", 
-        "change": "F", 
-        "match": "", 
-        "mention_id": "bioj:a2004-46-NATURE-C10-mention", 
-        "nltk_output_fragments": {
-            "0": {
-                "nltk_output_fragment": "Data were analysed with DENZO [41] and the resolution limit was determined with TRIM_DENZO (D.I.S., unpublished program).", 
-                "software": "DENZO"
-            }
-        }, 
-        "original_full_quote & software": "Data were analysed with DENZO [41] and the resolution limit was determined with TRIM_DENZO (D.I.S., unpublished program).", 
-        "software": "DENZO"
-    }, 
+   
     "14": {
         "article_id": "bioj:a2004-46-NATURE", 
         "change": "F", 
@@ -259,26 +246,13 @@
         "nltk_output_fragments": {
             "0": {
                 "nltk_output_fragment": "Secondary structure elements of our P16 model (red), secondary structure prediction (PREDATOR [49], green) and transmembrane helix prediction (TMHMM [47], brown), aligned with the amino acid sequence (amino acids visible in the electron density are in red).", 
-                "software": "PREDATOR"
+                "software": "PREDATOR,TMHMM"
             }
         }, 
         "original_full_quote & software": "Secondary structure elements of our P16 model (red), secondary structure prediction (PREDATOR [49], green) and transmembrane helix prediction (TMHMM [47], brown), aligned with the amino acid sequence (amino acids visible in the electron density are in red).", 
-        "software": "PREDATOR"
+        "software": "PREDATOR,TMHMM"
     }, 
-    "20": {
-        "article_id": "bioj:a2004-46-NATURE", 
-        "change": "F", 
-        "match": "", 
-        "mention_id": "bioj:a2004-46-NATURE-C06-mention", 
-        "nltk_output_fragments": {
-            "0": {
-                "nltk_output_fragment": "Secondary structure elements of our P16 model (red), secondary structure prediction (PREDATOR [49], green) and transmembrane helix prediction (TMHMM [47], brown), aligned with the amino acid sequence (amino acids visible in the electron density are in red).", 
-                "software": "TMHMM"
-            }
-        }, 
-        "original_full_quote & software": "Secondary structure elements of our P16 model (red), secondary structure prediction (PREDATOR [49], green) and transmembrane helix prediction (TMHMM [47], brown), aligned with the amino acid sequence (amino acids visible in the electron density are in red).", 
-        "software": "TMHMM"
-    }, 
+    
     "21": {
         "article_id": "bioj:a2004-46-NATURE", 
         "change": "F", 
@@ -460,21 +434,7 @@
         }, 
         "original_full_quote & software": "Refinement was done with CNS [46].", 
         "software": "CNS"
-    }, 
-    "34": {
-        "article_id": "bioj:a2005-46-NATURE", 
-        "change": "F", 
-        "match": "", 
-        "mention_id": "bioj:a2005-46-NATURE-C06-mention", 
-        "nltk_output_fragments": {
-            "0": {
-                "nltk_output_fragment": "Refinement was done with CNS [46].", 
-                "software": "Crystallography & NMR system"
-            }
-        }, 
-        "original_full_quote & software": "Refinement was done with CNS [46].", 
-        "software": "Crystallography & NMR system"
-    }, 
+    },
     "35": {
         "article_id": "bioj:a2005-46-NATURE", 
         "change": "F", 
@@ -497,26 +457,13 @@
         "nltk_output_fragments": {
             "0": {
                 "nltk_output_fragment": "The bromide sites were found with SOLVE [42] and molecular replacement was done with AmoRe [43].", 
-                "software": "SOLVE"
+                "software": "SOLVE,AmoRe"
             }
         }, 
         "original_full_quote & software": "The bromide sites were found with SOLVE [42] and molecular replacement was done with AmoRe [43]. Phase combination and extension were accomplished with SIGMAA [44] and DM [45], respectively.", 
-        "software": "SOLVE"
+        "software": "SOLVE,AmoRe"
     }, 
-    "37": {
-        "article_id": "bioj:a2005-46-NATURE", 
-        "change": "T", 
-        "match": "", 
-        "mention_id": "bioj:a2005-46-NATURE-C03-mention", 
-        "nltk_output_fragments": {
-            "0": {
-                "nltk_output_fragment": "The bromide sites were found with SOLVE [42] and molecular replacement was done with AmoRe [43].", 
-                "software": "AmoRe"
-            }
-        }, 
-        "original_full_quote & software": "The bromide sites were found with SOLVE [42] and molecular replacement was done with AmoRe [43]. Phase combination and extension were accomplished with SIGMAA [44] and DM [45], respectively.", 
-        "software": "AmoRe"
-    },
+    
     "39": {
         "article_id": "bioj:a2005-46-NATURE", 
         "change": "T", 
@@ -525,26 +472,13 @@
         "nltk_output_fragments": { 
             "0": {
                 "nltk_output_fragment": "Phase combination and extension were accomplished with SIGMAA [44] and DM [45], respectively.", 
-                "software": "SIGMAA"
+                "software": "SIGMAA,DM"
             }
         }, 
         "original_full_quote & software": "The bromide sites were found with SOLVE [42] and molecular replacement was done with AmoRe [43]. Phase combination and extension were accomplished with SIGMAA [44] and DM [45], respectively.", 
-        "software": "SIGMAA"
+        "software": "SIGMAA,DM"
     }, 
-    "40": {
-        "article_id": "bioj:a2005-46-NATURE", 
-        "change": "T", 
-        "match": "", 
-        "mention_id": "bioj:a2005-46-NATURE-C05-mention", 
-        "nltk_output_fragments": {
-            "0": {
-                "nltk_output_fragment": "Phase combination and extension were accomplished with SIGMAA [44] and DM [45], respectively.", 
-                "software": "DM"
-            }
-        }, 
-        "original_full_quote & software": "The bromide sites were found with SOLVE [42] and molecular replacement was done with AmoRe [43]. Phase combination and extension were accomplished with SIGMAA [44] and DM [45], respectively.", 
-        "software": "DM"
-    }, 
+    
     "41": {
         "article_id": "bioj:a2006-26-ACTA_CRYSTALLOGR_D", 
         "change": "F", 
@@ -553,26 +487,13 @@
         "nltk_output_fragments": {
             "0": {
                 "nltk_output_fragment": "All data sets were processed with HKL (Otwinowski & Minor, 1997) and the space group and data statistics were determined using XPREP (Bruker AXS, Madison, WI, USA).", 
-                "software": "HKL"
+                "software": "HKL,XPREP"
             }
         }, 
         "original_full_quote & software": "All data sets were processed with HKL (Otwinowski & Minor, 1997) and the space group and data statistics were determined using XPREP (Bruker AXS, Madison, WI, USA).", 
-        "software": "HKL"
+        "software": "HKL,XPREP"
     }, 
-    "42": {
-        "article_id": "bioj:a2006-26-ACTA_CRYSTALLOGR_D", 
-        "change": "F", 
-        "match": "", 
-        "mention_id": "bioj:a2006-26-ACTA_CRYSTALLOGR_D-C02-mention", 
-        "nltk_output_fragments": {
-            "0": {
-                "nltk_output_fragment": "All data sets were processed with HKL (Otwinowski & Minor, 1997) and the space group and data statistics were determined using XPREP (Bruker AXS, Madison, WI, USA).", 
-                "software": "XPREP"
-            }
-        }, 
-        "original_full_quote & software": "All data sets were processed with HKL (Otwinowski & Minor, 1997) and the space group and data statistics were determined using XPREP (Bruker AXS, Madison, WI, USA).", 
-        "software": "XPREP"
-    }, 
+    
     "43": {
         "article_id": "bioj:a2006-26-ACTA_CRYSTALLOGR_D", 
         "change": "F", 
@@ -581,26 +502,13 @@
         "nltk_output_fragments": {
             "0": {
                 "nltk_output_fragment": "All structures were refined against F using TLS refinement in REFMAC (Murshudov et al., 1997), alternating with model building in real space using 2mFo - DFc and mFo - DFc maps in COOT (Emsley & Cowtan, 2004).", 
-                "software": "REFMAC"
+                "software": "REFMAC,COOT"
             }
         }, 
         "original_full_quote & software": "All structures were refined against F using TLS refinement in REFMAC (Murshudov et al., 1997), alternating with model building in real space using 2mFo - DFc and mFo - DFc maps in COOT (Emsley & Cowtan, 2004).", 
-        "software": "REFMAC"
+        "software": "REFMAC,COOT"
     }, 
-    "44": {
-        "article_id": "bioj:a2006-26-ACTA_CRYSTALLOGR_D", 
-        "change": "F", 
-        "match": "", 
-        "mention_id": "bioj:a2006-26-ACTA_CRYSTALLOGR_D-C07-mention", 
-        "nltk_output_fragments": {
-            "0": {
-                "nltk_output_fragment": "All structures were refined against F using TLS refinement in REFMAC (Murshudov et al., 1997), alternating with model building in real space using 2mFo - DFc and mFo - DFc maps in COOT (Emsley & Cowtan, 2004).", 
-                "software": "COOT"
-            }
-        }, 
-        "original_full_quote & software": "All structures were refined against F using TLS refinement in REFMAC (Murshudov et al., 1997), alternating with model building in real space using 2mFo - DFc and mFo - DFc maps in COOT (Emsley & Cowtan, 2004).", 
-        "software": "COOT"
-    }, 
+    
     "45": {
         "article_id": "bioj:a2006-26-ACTA_CRYSTALLOGR_D", 
         "change": "F", 
@@ -609,40 +517,13 @@
         "nltk_output_fragments": {
             "0": {
                 "nltk_output_fragment": "Figures were drawn with CHIMERA (Pettersen et al., 2004), MOLSCRIPT (Kraulis, 1991) and RASTER3D (Merritt & Bacon, 1997).", 
-                "software": "CHIMERA"
+                "software": "CHIMERA,MOLSCRIPT,RASTER3D"
             }
         }, 
         "original_full_quote & software": "Figures were drawn with CHIMERA (Pettersen et al., 2004), MOLSCRIPT (Kraulis, 1991) and RASTER3D (Merritt & Bacon, 1997).", 
-        "software": "CHIMERA"
+        "software": "CHIMERA,MOLSCRIPT,RASTER3D"
     }, 
-    "46": {
-        "article_id": "bioj:a2006-26-ACTA_CRYSTALLOGR_D", 
-        "change": "F", 
-        "match": "", 
-        "mention_id": "bioj:a2006-26-ACTA_CRYSTALLOGR_D-C10-mention", 
-        "nltk_output_fragments": {
-            "0": {
-                "nltk_output_fragment": "Figures were drawn with CHIMERA (Pettersen et al., 2004), MOLSCRIPT (Kraulis, 1991) and RASTER3D (Merritt & Bacon, 1997).", 
-                "software": "MOLSCRIPT"
-            }
-        }, 
-        "original_full_quote & software": "Figures were drawn with CHIMERA (Pettersen et al., 2004), MOLSCRIPT (Kraulis, 1991) and RASTER3D (Merritt & Bacon, 1997).", 
-        "software": "MOLSCRIPT"
-    }, 
-    "47": {
-        "article_id": "bioj:a2006-26-ACTA_CRYSTALLOGR_D", 
-        "change": "F", 
-        "match": "", 
-        "mention_id": "bioj:a2006-26-ACTA_CRYSTALLOGR_D-C11-mention", 
-        "nltk_output_fragments": {
-            "0": {
-                "nltk_output_fragment": "Figures were drawn with CHIMERA (Pettersen et al., 2004), MOLSCRIPT (Kraulis, 1991) and RASTER3D (Merritt & Bacon, 1997).", 
-                "software": "RASTER3D"
-            }
-        }, 
-        "original_full_quote & software": "Figures were drawn with CHIMERA (Pettersen et al., 2004), MOLSCRIPT (Kraulis, 1991) and RASTER3D (Merritt & Bacon, 1997).", 
-        "software": "RASTER3D"
-    }, 
+   
     "48": {
         "article_id": "bioj:a2006-26-ACTA_CRYSTALLOGR_D", 
         "change": "T", 
@@ -775,34 +656,21 @@
         "nltk_output_fragments": {
             "0": {
                 "nltk_output_fragment": "Both Statview 5.0 and Prism GraphPad software were used for survival data and mortality curves analysis.", 
-                "software": "Statview"
+                "software": "Statview,Prism GraphPad"
             }, 
             "1": {
                 "nltk_output_fragment": "We analyzed survival data by Kaplan-Meier analysis in Statview 5.0.", 
                 "software": "Statview"
-            }
-        }, 
-        "original_full_quote & software": "Both Statview 5.0 and Prism GraphPad software were used for survival data and mortality curves analysis. We analyzed survival data by Kaplan-Meier analysis in Statview 5.0. The log-rank (Mantel-Cox) test results are presented. Censored data were recorded and analyzed with GraphPad software.", 
-        "software": "Statview"
-    }, 
-    "57": {
-        "article_id": "bioj:a2007-14-NAT_GENET", 
-        "change": "T", 
-        "match": "", 
-        "mention_id": "bioj:a2007-14-NAT_GENET-C02-mention", 
-        "nltk_output_fragments": {
-            "0": {
-                "nltk_output_fragment": "Both Statview 5.0 and Prism GraphPad software were used for survival data and mortality curves analysis.", 
-                "software": "Prism GraphPad"
-            }, 
+            },
             "3": {
                 "nltk_output_fragment": "Censored data were recorded and analyzed with GraphPad software.", 
                 "software": "GraphPad"
             }
         }, 
         "original_full_quote & software": "Both Statview 5.0 and Prism GraphPad software were used for survival data and mortality curves analysis. We analyzed survival data by Kaplan-Meier analysis in Statview 5.0. The log-rank (Mantel-Cox) test results are presented. Censored data were recorded and analyzed with GraphPad software.", 
-        "software": "GraphPad Prism"
+        "software": "Statview,Prism GraphPad"
     }, 
+    
     "58": {
         "article_id": "bioj:a2007-14-NAT_GENET", 
         "change": "F", 
@@ -853,26 +721,13 @@
         "nltk_output_fragments": {
             "0": {
                 "nltk_output_fragment": "The final cladogram figures were made using MacClade 4.04 (Maddison and Maddison, 2005) and edited with Adobe InDesign CS.", 
-                "software": "MacClade"
+                "software": "MacClade,Adobe INDesign CS"
             }
         }, 
         "original_full_quote & software": "The final cladogram figures were made using MacClade 4.04 (Maddison and Maddison, 2005) and edited with Adobe InDesign CS. As some of the branches in the bootstrap consensus tree are not highly supported, we chose to code uncertainties in character evolution as equivocal. In addition, the option \u2018\u2018soft polytomies\u2019\u2019 was used.", 
-        "software": "MacClade"
+        "software": "MacClade,Adobe INDesign CS"
     }, 
-    "63": {
-        "article_id": "bioj:a2007-27-CLADISTICS", 
-        "change": "T", 
-        "match": "", 
-        "mention_id": "bioj:a2007-27-CLADISTICS-C04-mention", 
-        "nltk_output_fragments": {
-            "0": {
-                "nltk_output_fragment": "The final cladogram figures were made using MacClade 4.04 (Maddison and Maddison, 2005) and edited with Adobe InDesign CS.", 
-                "software": "Adobe INDesign CS"
-            }
-        }, 
-        "original_full_quote & software": "The final cladogram figures were made using MacClade 4.04 (Maddison and Maddison, 2005) and edited with Adobe InDesign CS. As some of the branches in the bootstrap consensus tree are not highly supported, we chose to code uncertainties in character evolution as equivocal. In addition, the option \u2018\u2018soft polytomies\u2019\u2019 was used.", 
-        "software": "Adobe INDesign CS"
-    }, 
+    
     "64": {
         "article_id": "bioj:a2007-27-CLADISTICS", 
         "change": "F", 
@@ -937,40 +792,14 @@
         "nltk_output_fragments": {
             "0": {
                 "nltk_output_fragment": "Data analysis using descriptive statistics, geNorm, NormFinder and qBasePlus indicated significant difference in variances between candidate EC genes.", 
-                "software": "geNorm"
+                "software": "geNorm,NormFinder,qBasePlus"
             }
         }, 
         "original_full_quote & software": "Data analysis using descriptive statistics, geNorm, NormFinder and qBasePlus indicated significant difference in variances between candidate EC genes.", 
-        "software": "geNorm"
+        "software": "geNorm,NormFinder,qBasePlus"
     }, 
-    "69": {
-        "article_id": "bioj:a2010-05-BMC_MOL_BIOL", 
-        "change": "F", 
-        "match": "", 
-        "mention_id": "bioj:a2010-05-BMC_MOL_BIOL-C02-mention", 
-        "nltk_output_fragments": {
-            "0": {
-                "nltk_output_fragment": "Data analysis using descriptive statistics, geNorm, NormFinder and qBasePlus indicated significant difference in variances between candidate EC genes.", 
-                "software": "NormFinder"
-            }
-        }, 
-        "original_full_quote & software": "Data analysis using descriptive statistics, geNorm, NormFinder and qBasePlus indicated significant difference in variances between candidate EC genes.", 
-        "software": "NormFinder"
-    }, 
-    "70": {
-        "article_id": "bioj:a2010-05-BMC_MOL_BIOL", 
-        "change": "F", 
-        "match": "", 
-        "mention_id": "bioj:a2010-05-BMC_MOL_BIOL-C03-mention", 
-        "nltk_output_fragments": {
-            "0": {
-                "nltk_output_fragment": "Data analysis using descriptive statistics, geNorm, NormFinder and qBasePlus indicated significant difference in variances between candidate EC genes.", 
-                "software": "qBasePlus"
-            }
-        }, 
-        "original_full_quote & software": "Data analysis using descriptive statistics, geNorm, NormFinder and qBasePlus indicated significant difference in variances between candidate EC genes.", 
-        "software": "qBasePlus"
-    }, 
+    
+    
     "71": {
         "article_id": "bioj:a2010-05-BMC_MOL_BIOL", 
         "change": "T", 
@@ -1000,27 +829,18 @@
                 "software": "geNorm"
             }, 
             "1": {
+                "nltk_output_fragment": "In the case of NormFinder, stability is calculated from inter- and intra-group variation.", 
+                "software": "NormFinder"
+            },
+            "2": {
                 "nltk_output_fragment": "For geNorm stability was based on the estimation of pair-wise variation.", 
                 "software": "geNorm"
             }
         }, 
         "original_full_quote & software": "For GeNorm, lower stability values (M) indicate greater stability. In the case of NormFinder, stability is calculated from inter- and intra-group variation. By grouping the tissues into tumour and normal the best combination of genes was identified. For geNorm stability was based on the estimation of pair-wise variation.", 
-        "software": "geNorm"
+        "software": "geNorm,NormFinder"
     }, 
-    "73": {
-        "article_id": "bioj:a2010-05-BMC_MOL_BIOL", 
-        "change": "T", 
-        "match": "", 
-        "mention_id": "bioj:a2010-05-BMC_MOL_BIOL-C19-mention", 
-        "nltk_output_fragments": {
-            "1": {
-                "nltk_output_fragment": "In the case of NormFinder, stability is calculated from inter- and intra-group variation.", 
-                "software": "NormFinder"
-            }
-        }, 
-        "original_full_quote & software": "For GeNorm, lower stability values (M) indicate greater stability. In the case of NormFinder, stability is calculated from inter- and intra-group variation. By grouping the tissues into tumour and normal the best combination of genes was identified. For geNorm stability was based on the estimation of pair-wise variation.", 
-        "software": "NormFinder"
-    }, 
+    
     "74": {
         "article_id": "bioj:a2010-05-BMC_MOL_BIOL", 
         "change": "T", 
@@ -1029,34 +849,17 @@
         "nltk_output_fragments": {
             "0": {
                 "nltk_output_fragment": "In the present study the stability of expression of candi- date EC genes was determined using a pair-wise com- parison model: geNorm [8] and an MS Excel ANOVA based model, NormFinder [35].", 
-                "software": "geNorm"
+                "software": "geNorm,NormFinder"
             }, 
             "1": {
                 "nltk_output_fragment": "Since both geNorm and NormFinder are based on the assumption that candidate genes are not differen- tially expressed between samples, this was an important first step prior to their continued use [9,10].", 
-                "software": "geNorm"
+                "software": "geNorm,NormFinder"
             }
         }, 
         "original_full_quote & software": "In the present study the stability of expression of candi- date EC genes was determined using a pair-wise com- parison model: geNorm [8] and an MS Excel ANOVA based model, NormFinder [35]. No effect of disease sta- tus EC gene expression was identified in colorectal tis- sue. Since both geNorm and NormFinder are based on the assumption that candidate genes are not differen- tially expressed between samples, this was an important first step prior to their continued use [9,10].", 
-        "software": "geNorm"
+        "software": "geNorm,NormFinder"
     }, 
-    "75": {
-        "article_id": "bioj:a2010-05-BMC_MOL_BIOL", 
-        "change": "T", 
-        "match": "", 
-        "mention_id": "bioj:a2010-05-BMC_MOL_BIOL-C09-mention", 
-        "nltk_output_fragments": {
-            "0": {
-                "nltk_output_fragment": "In the present study the stability of expression of candi- date EC genes was determined using a pair-wise com- parison model: geNorm [8] and an MS Excel ANOVA based model, NormFinder [35].", 
-                "software": "NormFinder"
-            }, 
-            "2": {
-                "nltk_output_fragment": "Since both geNorm and NormFinder are based on the assumption that candidate genes are not differen- tially expressed between samples, this was an important first step prior to their continued use [9,10].", 
-                "software": "NormFinder"
-            }
-        }, 
-        "original_full_quote & software": "In the present study the stability of expression of candi- date EC genes was determined using a pair-wise com- parison model: geNorm [8] and an MS Excel ANOVA based model, NormFinder [35]. No effect of disease sta- tus EC gene expression was identified in colorectal tis- sue. Since both geNorm and NormFinder are based on the assumption that candidate genes are not differen- tially expressed between samples, this was an important first step prior to their continued use [9,10].", 
-        "software": "NormFinder"
-    }, 
+   
     "76": {
         "article_id": "bioj:a2010-05-BMC_MOL_BIOL", 
         "change": "T", 
@@ -1175,44 +978,14 @@
         "nltk_output_fragments": {
             "0": {
                 "nltk_output_fragment": "Stability of the EC genes expression was evaluated with two freely available statistical models, geNorm and NormFinder.", 
-                "software": "geNorm"
+                "software": "geNorm,NormFinder"
             }
         }, 
         "original_full_quote & software": "Stability of the EC genes expression was evaluated with two freely available statistical models, geNorm and NormFinder.", 
-        "software": "geNorm"
+        "software": "geNorm,NormFinder"
     }, 
-    "84": {
-        "article_id": "bioj:a2010-05-BMC_MOL_BIOL", 
-        "change": "F", 
-        "match": "", 
-        "mention_id": "bioj:a2010-05-BMC_MOL_BIOL-C24-mention", 
-        "nltk_output_fragments": {
-            "0": {
-                "nltk_output_fragment": "Stability of the EC genes expression was evaluated with two freely available statistical models, geNorm and NormFinder.", 
-                "software": "NormFinder"
-            }
-        }, 
-        "original_full_quote & software": "Stability of the EC genes expression was evaluated with two freely available statistical models, geNorm and NormFinder.", 
-        "software": "NormFinder"
-    }, 
-    "85": {
-        "article_id": "bioj:a2010-05-BMC_MOL_BIOL", 
-        "change": "T", 
-        "match": "", 
-        "mention_id": "bioj:a2010-05-BMC_MOL_BIOL-C06-mention", 
-        "nltk_output_fragments": {
-            "0": {
-                "nltk_output_fragment": "Stability was further evaluated using qBasePlus [8,36], a commer- cially available RQ-PCR data mining package.", 
-                "software": "qBasePlus"
-            }, 
-            "1": {
-                "nltk_output_fragment": "In the case of GeNorm the variable V indi- cating the pairwise variation (Vn/Vn+1) between two sequential normalisation factors (NFn/NFn+1) indicated that three EC genes was the optimal number of genes for accurate normalisation (figure 2), however, target genes expression did not differ significantly if two rather than three EC genes were used (figure 3).", 
-                "software": "GeNorm"
-            }
-        }, 
-        "original_full_quote & software": "Stability was further evaluated using qBasePlus [8,36], a commer- cially available RQ-PCR data mining package. These programmes were used to calculate amplification effi- ciency-corrected relative quantities from raw fluores- cence data. The ranking of candidate EC genes as determined by each of these programmes is illustrated in Table 3. In the case of GeNorm the variable V indi- cating the pairwise variation (Vn/Vn+1) between two sequential normalisation factors (NFn/NFn+1) indicated that three EC genes was the optimal number of genes for accurate normalisation (figure 2), however, target genes expression did not differ significantly if two rather than three EC genes were used (figure 3). Use of all three programmes confirmed that B2M and PPIA was the best combination of genes for normalising RQ-PCR data in CRC tissues (table 3).", 
-        "software": "qBasePlus"
-    },  
+   
+   
     "87": {
         "article_id": "bioj:a2010-05-BMC_MOL_BIOL", 
         "change": "F", 
@@ -1221,40 +994,13 @@
         "nltk_output_fragments": {
             "0": {
                 "nltk_output_fragment": "Table 3 Ranking and best combination of EC genes as determined by geNorm, NormFinder and qBasePlus.", 
-                "software": "geNorm"
+                "software": "geNorm,NormFinder,qBasePlus"
             }
         }, 
         "original_full_quote & software": "Table 3 Ranking and best combination of EC genes as determined by geNorm, NormFinder and qBasePlus.", 
-        "software": "geNorm"
+        "software": "geNorm,NormFinder,qBasePlus"
     }, 
-    "88": {
-        "article_id": "bioj:a2010-05-BMC_MOL_BIOL", 
-        "change": "F", 
-        "match": "", 
-        "mention_id": "bioj:a2010-05-BMC_MOL_BIOL-C16-mention", 
-        "nltk_output_fragments": {
-            "0": {
-                "nltk_output_fragment": "Table 3 Ranking and best combination of EC genes as determined by geNorm, NormFinder and qBasePlus.", 
-                "software": "NormFinder"
-            }
-        }, 
-        "original_full_quote & software": "Table 3 Ranking and best combination of EC genes as determined by geNorm, NormFinder and qBasePlus.", 
-        "software": "NormFinder"
-    }, 
-    "89": {
-        "article_id": "bioj:a2010-05-BMC_MOL_BIOL", 
-        "change": "F", 
-        "match": "", 
-        "mention_id": "bioj:a2010-05-BMC_MOL_BIOL-C17-mention", 
-        "nltk_output_fragments": {
-            "0": {
-                "nltk_output_fragment": "Table 3 Ranking and best combination of EC genes as determined by geNorm, NormFinder and qBasePlus.", 
-                "software": "qBasePlus"
-            }
-        }, 
-        "original_full_quote & software": "Table 3 Ranking and best combination of EC genes as determined by geNorm, NormFinder and qBasePlus.", 
-        "software": "qBasePlus"
-    }, 
+    
     "90": {
         "article_id": "bioj:a2010-05-BMC_MOL_BIOL", 
         "change": "T", 
@@ -1292,6 +1038,7 @@
                 "software": "geNorm"
             }
         }, 
-        "original_full_quote & software": "The stability of candidate EC genes was analysed using geNorm [8] and NormFinder [35] programmes. Stability was further evaluated using qBasePlus [8,36], a commer- cially available RQ-PCR data mining package. These programmes were used to calculate amplification effi- ciency-corrected relative quantities from raw fluores- cence data. The ranking of candidate EC genes as determined by each of these programmes is illustrated in Table 3. In the case of GeNorm the variable V indi- cating the pairwise variation (Vn/Vn+1) between two sequential normalisation factors (NFn/NFn+1) indicated that three EC genes was the optimal number of genes for accurate normalisation (figure 2), however, target genes expression did not differ significantly if two rather than three EC genes were used (figure 3). Use of all three programmes confirmed that B2M and PPIA was the best combination of genes for normalising RQ-PCR data in CRC tissues (table 3).<geNorm>"
+        "original_full_quote & software": "The stability of candidate EC genes was analysed using geNorm [8] and NormFinder [35] programmes. Stability was further evaluated using qBasePlus [8,36], a commer- cially available RQ-PCR data mining package. These programmes were used to calculate amplification effi- ciency-corrected relative quantities from raw fluores- cence data. The ranking of candidate EC genes as determined by each of these programmes is illustrated in Table 3. In the case of GeNorm the variable V indi- cating the pairwise variation (Vn/Vn+1) between two sequential normalisation factors (NFn/NFn+1) indicated that three EC genes was the optimal number of genes for accurate normalisation (figure 2), however, target genes expression did not differ significantly if two rather than three EC genes were used (figure 3). Use of all three programmes confirmed that B2M and PPIA was the best combination of genes for normalising RQ-PCR data in CRC tissues (table 3).<geNorm>",
+		"software": "geNorm,NormFinder,qBasePlus"
     }
 }

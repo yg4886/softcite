@@ -12,9 +12,9 @@ for (lineNO,value) in json_data.items():
         fragment=(str(value["article_id"]),str(value["mention_id"]),str(n["nltk_output_fragment"].encode('utf-8')),str(n["software"]))
         csv_data.append(fragment)
  
-csv.writer(file('jsontocsv1.csv','w')) .writerows(csv_data)
+csv.writer(file('jsontocsv.csv','w')) .writerows(csv_data)
 
 
-reader=csv.reader(open("jsontocsv1.csv"))
+reader=csv.reader(open("jsontocsv.csv"))
 sortedlist = sorted(reader, key=operator.itemgetter(1))
-csv.writer(file('jsontocsv_sorted1.csv','w')) .writerows(sortedlist)
+csv.writer(file('mention_nltk_sentence.csv','w')) .writerows(sortedlist)

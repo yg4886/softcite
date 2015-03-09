@@ -12,12 +12,13 @@ import json
 whole={}
 
 i=1
-for line in csv.reader(open("mention.csv")):
+for line in csv.reader(open("mention_nltk_sentence.csv")):
     d={}#for 1 line in csv(for 1 full quote)
     d["article_id"]=line[0]
     d["mention_id"]=line[1]
     d["original_full_quote & software"]=line[2]
-    d["match"]=""
+    #generate v2
+    #d["match"]=""
     d["software"]=line[3]
     tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')#split text into sentence
     segments= tokenizer.tokenize(str(line[2]))#split text into sentence
@@ -32,12 +33,16 @@ for line in csv.reader(open("mention.csv")):
         idx=segments.index(segment)
         a["nltk_output_fragment"]=segment
         a["software"]=line[3]
+        #generate v3
+        a["match"]=""
+        #generate v3
+        a["notes"]=""
         b[idx]=a
     d["nltk_output_fragments"]=b
     whole[i]=d
     i+=1
     
 data = json.dumps(whole,sort_keys=True,indent=4)
-outputfile = open('mention_nltk_sentence_v0.json', 'w') 
+outputfile = open('mention_nltk_sentence_v3.json', 'w') 
 outputfile.write(data.strip())
 

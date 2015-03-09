@@ -12,7 +12,7 @@ import json
 whole={}
 
 i=1
-for line in csv.reader(open("mention_nltk_sentence.csv")):
+for line in csv.reader(open("mention.csv")):
     d={}#for 1 line in csv(for 1 full quote)
     d["article_id"]=line[0]
     d["mention_id"]=line[1]

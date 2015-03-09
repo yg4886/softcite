@@ -1,0 +1,44 @@
+ind7，8   write code to delete them（《3words》）
+
+
+future： header seperate if its a problem
+
+
+bioj:a2004-46-NATURE-C20.  incomplete fullquote causing difficulties in matching alogorithm.
+
+Replace with this (found by searching within the nltk sentences output file for 2004-46-Nature.txt)
+
+Analysing the relative positions of methionine residues and predicted transmembrane helices (program TMHMM47) in all the candidate sequences from the virus showed that fragment I belonged to the N-terminal region of the 117-residue integral membrane protein P16, predicted to possess an 18-residue transmembrane helix between residues 7 and 24.
+
+bioj:a2005-46-NATURE-C06-mention
+
+Again, a short sentence causing problems.  Replace full quote with this
+
+We determined the NR1–NR2A S1S2 structure by molecular replacement using a heterodimer search probe model built by superposing the structures of NR1 S1S2–glycine28 and NR2A S1S2–glutamate onto the GluR2 S1S2 dimer structure in helix J. Refinement was done with CNS46.
+
+
+
+bioj:a2006-26-ACTA_CRYSTALLOGR_D-C01-mention
+
+Replace with this (found by searching within the nltk sentences output file for 2004-46-Nature.txt)
+
+All data sets 2001) may prove to have been rather speculative, as the were processed with HKL (Otwinowski & Minor, 1997) and authors themselves acknowledged.
+
+
+bioj:a2006-26-ACTA_CRYSTALLOGR_D-C03-mention
+
+Replace with this (found by searching within the nltk sentences output file for 2004-46-Nature.txt)
+
+Structure solution, refinement and validation N-terminus, which is close to the dimerization region, was responsible for artefacts in the dimerization mode, we also The Wind-His, Y53S and Y53F structures were solved by report here the crystal structure of wild-type Wind with the molecular replacement using EPMR (Kissinger et al., 1999) His6 tag at the C-terminus (Wind-His).
+
+bioj:a2010-05-BMC_MOL_BIOL-C18-mention
+
+Replace with this (found by searching within the nltk sentences output file for 2010-05-Nature.txt)
+
+Rank  GeNorm  NormFinder  qBaseplus  Gene  Stability (M)  Gene  Stability (M)  Gene  CV value  1  GAPDH  1.477  MRPL19  0.008  GAPDH  0.555  2  MRPL19  1.467  B2M  0.015  PPIA  0.659  3  PPIA  1.535  HPRT  0.016  HPRT  0.775  4  B2M  1.636  PPIA  0.017  MRPL19  0.914  5  HPRT  1.813  GAPDH  0.018  B2M  0.923  6  DTX3  2.251  DTX3  0.020  ACTB  0.957  7  ACTB  2.454  ACTB  0.026  DTX3  5.829  Best Combination  B2M/PPIA  1.005  B2M/PPIA  0.007  B2M/PPIA  0.460  For GeNorm, lower stability values (M) indicate greater stability.
+
+bioj:a2010-05-BMC_MOL_BIOL-C22-mention
+
+QBasePlus was used for calculation of PDCD4 expression relative to each of the  Amplification efficiencies for each EC gene assay were calculated applying the formula E = (10-1/slope - 1) × 100, using the slope of the plot of Ct versus log input of cDNA (10-fold dilution series).
+
+index:57

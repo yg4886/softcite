@@ -42,3 +42,7 @@ bioj:a2010-05-BMC_MOL_BIOL-C22-mention
 QBasePlus was used for calculation of PDCD4 expression relative to each of the  Amplification efficiencies for each EC gene assay were calculated applying the formula E = (10-1/slope - 1) × 100, using the slope of the plot of Ct versus log input of cDNA (10-fold dilution series).
 
 index:57
+
+replaced by this
+
+Logistic regression in STATA (http://www.stata.

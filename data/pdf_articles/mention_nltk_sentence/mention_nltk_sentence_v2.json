@@ -130,7 +130,7 @@
         "change": "F", 
         "match": "F", 
         "mention_id": "bioj:a2004-46-NATURE-C20-mention", 
-		"note":"incomplete fullquote causing difficulties in matching alogorithm. Replace with this (found by searching within the nltk sentences output file for 2004-46-Nature.txt)"
+		"note":"incomplete fullquote causing difficulties in matching alogorithm. Replace with this (found by searching within the nltk sentences output file for 2004-46-Nature.txt)",
         "nltk_output_fragments": {
             "0": {
                 "nltk_output_fragment": "Analysing the relative positions of methionine residues and predicted transmembrane helices (program TMHMM47) in all the candidate sequences from the virus showed that fragment I belonged to the N-terminal region of the 117-residue integral membrane protein P16, predicted to possess an 18-residue transmembrane helix between residues 7 and 24.", 
@@ -767,7 +767,7 @@
         "change": "F", 
         "match": "F", 
         "mention_id": "bioj:a2007-38-HUM_MOL_GENET-C01-mention", 
-		"note":"replaced by this"
+		"note":"replaced by this",
         "nltk_output_fragments": {
             "0": {
                 "nltk_output_fragment": "Logistic regression in STATA (http://www.stata.", 
